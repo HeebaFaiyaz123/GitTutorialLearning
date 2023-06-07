@@ -1,0 +1,2 @@
+this is version1 of my project.
+i am doing some further changes to learn more features of git.
